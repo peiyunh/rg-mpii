@@ -1,0 +1,5 @@
+data/mpii_human/full_images
+data/mpii_human/images
+data/mpii_human/labels
+data/mpii_human/submissions
+data/mpii_human/eval/plots

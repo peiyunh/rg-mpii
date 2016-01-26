@@ -1,0 +1,13 @@
+1/25/2016
+Peiyun Hu
+
+=== Preprocess steps ===
+
+- Download your data and have these files in place:
+  - annotation/mpii_human_pose_v1_u12_1.mat
+  - full_images/*.jpg (original MPII images)
+- Run remark_annotation.m to make annotation easy to use
+- Run prepare_data_bot50.m to crop & resize full images into crops
+- Now you should have:
+  - images/ : 256x256 crops for each person
+  - labels/ : corresponding labels
