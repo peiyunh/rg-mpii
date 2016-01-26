@@ -2,12 +2,15 @@
 
 To run the code:
 
-- Download [MatConvNet](http://www.vlfeat.org/matconvnet/) and put in matconvnet/
-  - also have the pre-trained vgg-16 model at ./matconvnet/imagenet-vgg-verydeep-16.mat
+- Download the pre-trained vgg-16 model from [MatConvNet](http://www.vlfeat.org/matconvnet/) and put in matconvnet/
 - Download [MPII](http://human-pose.mpi-inf.mpg.de/) and put in data/mpii_human/
   - see data/mpii_human/README for more details
 - Call run_qp1_mpii.m for training & testing a qp1 model
 - Call run_qp2_mpii.m for training & testing a qp2 model
+
+Note:
+
+We made a few changes comparing to [MatConvNet](http://www.vlfeat.org/matconvnet/). 
 
 Credits:
 
