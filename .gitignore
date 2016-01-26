@@ -8,3 +8,4 @@ matconvnet/*.mat
 matconvnet/matlab/mex/*
 matconvnet/local
 
+models/

@@ -175,8 +175,6 @@ for i=1:numel(image_paths)
         loc_heat(I) = 1;
         labels(:,:,lid(j),si) = loc_heat;
     end
-
-    end
     si = si + 1 ;
   end
 end

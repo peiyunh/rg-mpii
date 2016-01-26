@@ -111,7 +111,7 @@ for i = 1:numel(image_names)
         kids = [points.id] + 1; % index from 1
 
         kys = sfs(1) * (kys + pad(1,1) - nby1 + 1);
-        kxs = sfs] (2) * (kxs + pad(1,2) - nbx1 + 1);
+        kxs = sfs(2) * (kxs + pad(1,2) - nbx1 + 1);
 
         hy1 = sfs(1) * (hy1 + pad(1,1) - nby1 + 1);
         hy2 = sfs(1) * (hy2 + pad(1,1) - nby1 + 1);
