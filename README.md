@@ -1,4 +1,5 @@
-=== Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians ===
+Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians
+=====
 
 To run the code:
 
@@ -8,14 +9,17 @@ To run the code:
 - Call run_qp1_mpii.m for training & testing a qp1 model
 - Call run_qp2_mpii.m for training & testing a qp2 model
 
+
 Note:
 
-We made a few changes comparing to [MatConvNet](http://www.vlfeat.org/matconvnet/). 
+We made a few changes comparing to the original [MatConvNet](http://www.vlfeat.org/matconvnet/). 
+
 
 Credits:
 
 The implementation is based on & inspired by [MatConvNet](http://www.vlfeat.org/matconvnet/) and
 [MatConvNet-FCN](https://github.com/vlfeat/matconvnet-fcn). 
+
 
 Other useful functions:
 
