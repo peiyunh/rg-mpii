@@ -1,5 +1,4 @@
-Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians
-=====
+Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians =====
 
 **Instructions**:
 
@@ -15,7 +14,8 @@ Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians
 
 **Pretrained models**:
 
-Download our trained models [here](http://www.ics.uci.edu/~peiyunh/public/rg-mpii/). 
+Download our trained models
+[here](http://www.ics.uci.edu/~peiyunh/public/rg-mpii/).
 
 
 **Notes**:
@@ -23,15 +23,17 @@ Download our trained models [here](http://www.ics.uci.edu/~peiyunh/public/rg-mpi
 A few necessary changes are made based on the original
 [MatConvNet](http://www.vlfeat.org/matconvnet/).
 
-See [our code and models](http://www.ics.uci.edu/~peiyunh/public/rg-mpii/) for face landmark
-localization on [AFLW](https://lrs.icg.tugraz.at/research/aflw/) dataset.
+See [our code and models](http://www.ics.uci.edu/~peiyunh/public/rg-mpii/) for
+face landmark localization on [AFLW](https://lrs.icg.tugraz.at/research/aflw/)
+dataset.
 
 
 **Credits**:
 
-The implementation is based on & inspired by [MatConvNet](http://www.vlfeat.org/matconvnet/) and
+The implementation is based on & inspired by
+[MatConvNet](http://www.vlfeat.org/matconvnet/) and
 [MatConvNet-FCN](https://github.com/vlfeat/matconvnet-fcn).
 
-Thanks [James](https://github.com/jsupancic/) for dag_viz.m which dumps a MatConvNet model into a
-dot file.
+Thanks [James](https://github.com/jsupancic/) for dag_viz.m which dumps a
+MatConvNet model into a dot file.
 
