@@ -23,9 +23,8 @@ Download our trained models
 A few necessary changes are made based on the original
 [MatConvNet](http://www.vlfeat.org/matconvnet/).
 
-See [our code and models](http://www.ics.uci.edu/~peiyunh/public/rg-mpii/) for
-face landmark localization on [AFLW](https://lrs.icg.tugraz.at/research/aflw/)
-dataset.
+See [our code and models](https://github.com/peiyunh/rg-aflw/) for face landmark
+localization on [AFLW](https://lrs.icg.tugraz.at/research/aflw/) dataset.
 
 
 **Credits**:
