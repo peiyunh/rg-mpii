@@ -1,6 +1,5 @@
----
-title: Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians
----
+Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians
+======
 
 **Instructions**:
 
