@@ -1,22 +1,34 @@
 
+<!-- Google Analytics Tracking code -->
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-75596919-1']);
+ _gaq.push(['_trackPageview']);
+ (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
 <div style="padding: 20px; margin: 0 auto; width:60%; text-align:center" > 
     <h1 style="font-weight: normal; font-size: 20pt;"> 
-	    Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians 
-	</h1>
+	Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians 
+    </h1>
 
-	<table align="center" width="30%" style="font-size: 14pt">
-	    <tr>
-	        <td> <a href="http://www.ics.uci.edu/~peiyunh/">Peiyun Hu</a> </td>
-	        <td> <a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a> </td>
-	    </tr>
-	</table>
-	
-	<div style="padding: 10px;">
-	    <a href="./teaser.png"> <img width=50% src="./teaser.png"/> </a>
-	</div>
+    <table align="center" width="30%" style="font-size: 14pt">
+	<tr>
+	    <td> <a href="http://www.ics.uci.edu/~peiyunh/">Peiyun Hu</a> </td>
+	    <td> <a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a> </td>
+	</tr>
+    </table>
+    
+    <div style="padding: 10px;">
+	<a href="./teaser.png"> <img width=50% src="./teaser.png"/> </a>
+    </div>
 
     <h3 style="font-weight: normal; font-size: 15pt;"> Abstract </h3>
-	<div style="margin: 0 auto; width: 60%; text-align: left"> 
+    <div style="margin: 0 auto; width: 60%; text-align: left"> 
 	Convolutional neural nets (CNNs) have demonstrated remarkable performance in
 	recent history. Such approaches tend to work in a “unidirectional” bottom-up
 	feed-forward fashion. However, practical experience and biological evidence
@@ -36,17 +48,17 @@
 	on the challenging task of keypoint localization under occlusions, where
 	local bottom-up evidence may be misleading. We demonstrate state-of-the-art
 	results on challenging benchmarks.
-	</div>
-	
+    </div>
+    
     <h3 style="font-weight: normal; font-size: 15pt;"> Paper </h3>
-	<div style="margin: 0 auto; width: 60%; text-align: center;"> 
-		CVPR 2016: <font color="red"> coming soon </font>
-	</div>
+    <div style="margin: 0 auto; width: 60%; text-align: center;"> 
+	CVPR 2016: <font color="red"> coming soon </font>
+    </div>
 
     <h3 style="font-weight: normal; font-size: 15pt;"> Code </h3>
-	<div style="margin: 0 auto; width: 60%; text-align: center"> 	
-		See <a href="https://github.com/peiyunh/rg-mpii/">Github</a> for our
+    <div style="margin: 0 auto; width: 60%; text-align: center"> 	
+	See <a href="https://github.com/peiyunh/rg-mpii/">Github</a> for our
         code and trained models.
-	</div>
-	
+    </div>
+
 </div>
