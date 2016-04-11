@@ -53,7 +53,7 @@
     
     <h3 style="font-weight: normal; font-size: 15pt;"> Paper </h3>
     <div style="margin: 0 auto; width: 60%; text-align: center;"> 
-	CVPR 2016: <font color="red"> coming soon </font>
+	CVPR 2016: <font color="red"> [PDF](./cvpr16_rg.pdf)  </font>
     </div>
 
     <h3 style="font-weight: normal; font-size: 15pt;"> Code </h3>
